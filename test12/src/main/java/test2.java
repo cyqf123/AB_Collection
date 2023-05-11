@@ -3,4 +3,5 @@ public class test2 {
 
     }
     public void test4(){}
+    public void test6(){}
 }
